@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264894792027",
+    "project_id": "my-job-timer",
+    "storage_bucket": "my-job-timer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264894792027:android:3d4763906373d723e51a7e",
+        "android_client_info": {
+          "package_name": "br.com.alissonaraujo.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264894792027-c7v9seot9i80dv92esj4nhrijlqafpmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.alissonaraujo.job_timer",
+            "certificate_hash": "0034da5036ae7798448005d2011ef6c65f6fe4e6"
+          }
+        },
+        {
+          "client_id": "264894792027-7ost9eboie66h575kgm25ppi4stbskp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsru0uoJTDwpd4AUXFGN7nbR80R3HDS8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264894792027-7ost9eboie66h575kgm25ppi4stbskp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

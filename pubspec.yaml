@@ -1,0 +1,60 @@
+name: job_timer
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+  # Modular
+  flutter_modular: ^5.0.2
+  modular_bloc_bind: ^1.0.1
+  asuka: ^2.0.0+1
+  # Modular end
+
+  # General
+  validatorless: ^1.2.1
+  fl_chart: ^0.51.0
+  # General 
+
+  # Firebase
+  firebase_core: ^1.17.1
+  firebase_auth: ^3.3.19
+  google_sign_in: ^5.3.2
+  # Firebase end
+
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
+
+  # Isar(NoSql)
+  isar: 2.5.0
+  isar_flutter_libs: 2.5.0 
+  path_provider: ^2.0.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  isar_generator: 2.5.0
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+
